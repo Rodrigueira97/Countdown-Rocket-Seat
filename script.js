@@ -4,7 +4,7 @@ const minutes = document.querySelector('#minutes')
 const seconds = document.querySelector('#seconds')
 // colocar as divs dentro de uma variavel
 
-const newYears = "21 Nov 2022 07:00:00 GMT-0300";
+const newYears = "25 Nov 2023 07:00:00 GMT-0300";
 // colocar a data futura qua vc quer dentro de uma variavel
 
 
